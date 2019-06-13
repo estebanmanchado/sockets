@@ -1,4 +1,4 @@
 sockets
 =======
 
-sockets xatoo logos comnuicaciones
+sockets xatoo logos comunicaciones
